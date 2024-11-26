@@ -9,3 +9,6 @@ Lab 1 <br>
 
 Lab 2 <br> 
 <a href="https://t.me/c/1268048899/34296?thread=33988"> Hazim Yusof </a> <br>
+
+Lab 3 <br> 
+<a href="https://t.me/c/1268048899/34724?thread=34431"> Hazim Yusof </a> <br>
