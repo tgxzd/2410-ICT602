@@ -1,6 +1,7 @@
 # Group Member
 1. Hazim bin Md Yusof
 2. Muhammad Izzuddin bin Zuraimi
+3. Muhammad Norhashim bin Mohamed
 
 
 ## Lab 1 
