@@ -13,6 +13,6 @@
 
 ## Lab 3
 <a href="https://t.me/c/1268048899/34724?thread=34431"> Hazim Yusof </a> <br>
-<a href="https://t.me/c/1268048899/34636?thread=34431"></a> Muhammad Izzuddin bin Zuraimi <br>
+<a href="https://t.me/c/1268048899/34636?thread=34431"> Muhammad Izzuddin bin Zuraimi </a> <br>
 
 ## Lab 4 
