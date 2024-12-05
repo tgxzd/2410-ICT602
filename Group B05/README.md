@@ -13,8 +13,7 @@
 | NAMA | STUID|
 
 
-#### LAB WORK
-
+#### LAB WORK (TENGKU AIZAD)
 
 
 | LAB |               LINK     |
