@@ -1,5 +1,5 @@
 
-![Logo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZvaWswOW4wdTBoYnN6bHFvNjdta3VvaXB2cHpwOGN0a3Yxc3NzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wBELrJgO6ZtII/giphy.webp)
+![Logo](https://media1.tenor.com/m/OOiBb0kN_VcAAAAd/spongebob-sb.gif)
 ## Group B05
 
 #### MEMBERS
