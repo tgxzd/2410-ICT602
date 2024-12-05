@@ -12,19 +12,25 @@
 | NAMA | STUID|
 | NAMA | STUID|
 
+#### LAB WORK GROUP
+
+| LAB |               LINK     |
+| :--------|     :-------      |
+| LAB 4           |   | 
+| LAB 4           |   |
+| LAB 4           |   |
+
+
 
 #### LAB WORK (TENGKU AIZAD)
 
 
 | LAB |               LINK     |
 | :--------|     :-------      |
-| LAB 1           |    [Lab 1](https://t.me/c/1268048899/34297?thread=33987)   | 
-| LAB 2           |   LINK     |
-| LAB 3           |      LINK  |
-| LAB 4           |    LINK    | 
-| LAB 5           |  LINK      |
-| LAB 6           |    LINK    |
-| LAB 7           | LINK       |
+| LAB 1           |    [Lab 1](https://t.me/c/1268048899/34297?thread=33987)| 
+| LAB 2           |    [Lab 2](https://t.me/c/1268048899/34228?thread=33988)|
+| LAB 3           |    [Lab 3](https://www.youtube.com/watch?v=K4DOyUvqLDU) |
+
 
 
 
