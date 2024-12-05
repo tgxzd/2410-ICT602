@@ -1,5 +1,5 @@
 
-![Logo](https://media.licdn.com/dms/image/v2/D4D12AQEphQSevSnOMg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1706349324151?e=2147483647&v=beta&t=eSEs3Vtylj0d1UO0lgwrhqfA_JRNrxGcMlnewCTlKrA)
+![Logo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZvaWswOW4wdTBoYnN6bHFvNjdta3VvaXB2cHpwOGN0a3Yxc3NzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wBELrJgO6ZtII/giphy.webp)
 ## Group B05
 
 #### MEMBERS
