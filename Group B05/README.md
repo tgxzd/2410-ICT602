@@ -18,7 +18,7 @@
 
 | LAB |               LINK     |
 | :--------|     :-------      |
-| LAB 1           |  LINK      | 
+| LAB 1           |    [Lab 1](https://t.me/c/1268048899/34297?thread=33987)   | 
 | LAB 2           |   LINK     |
 | LAB 3           |      LINK  |
 | LAB 4           |    LINK    | 
